@@ -1,6 +1,5 @@
 package BucklinChukwuIntegerProj;
 import java.util.*;
-import java.util.*;
 
 public class runIntegerSets {
     public static void main(String[] args) {
